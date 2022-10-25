@@ -1,3 +1,3 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=tagcopperlight&count_private=true&show_icons=true&theme=github_dark&border_radius=13&include_all_commits=true&border_color=7B7D80&custom_title=GitHub%20Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tagcopperlight&layout=compact&theme=github_dark&card_width=445&border_radius=13&border_color=7B7D80"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tagcopperlight&layout=compact&theme=github_dark&border_radius=13&border_color=7B7D80"/>
